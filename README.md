@@ -2,7 +2,7 @@
 
 This is a simple bank account system
 
-it allowed you to creat new Clint's and make Deposit or withdraw form the clint account
+it allowed you to creat new Clients and make Deposit or withdraw form the Client account
 
 
 pip install -r requirements.txt
